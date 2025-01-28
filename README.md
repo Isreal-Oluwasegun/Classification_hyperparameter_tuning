@@ -1,5 +1,5 @@
 # Classification_hyperparameter_tuning
-This coding challenge aimed at predicting wine quality, i.e. the label is 'quality' using classification. The Wine Quality dataset is gotten from the UCI Machine Learning Repository. The constituents of this dataset are red and white variants of the Portuguese "Vinho Verde" wine.
+This coding challenge aimed at predicting wine quality, i.e. the label 'quality' using classification. The Wine Quality dataset is gotten from the UCI Machine Learning Repository. The constituents of this dataset are red and white variants of the Portuguese "Vinho Verde" wine.
 
 This dataset consists of the following variables:
 
