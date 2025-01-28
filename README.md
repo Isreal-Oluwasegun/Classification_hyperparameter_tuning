@@ -3,17 +3,20 @@ This coding challenge is aim at predicting wine quality, i.e. the label is 'qual
 
 This dataset consists of the following variables:
 
-fixed acidity
-volatile acidity
-citric acid
-residual sugar
-chlorides
-free sulfur dioxide
-total sulfur dioxide
-density
-pH
-sulphates
-alcohol
-quality (score between 0 and 10)
-Reading in the data
+- fixed acidity
+- volatile acidity
+- citric acid
+- residual sugar
+- chlorides
+- free sulfur dioxide
+- total sulfur dioxide
+- density
+- pH
+- sulphates
+- alcohol
+- quality (score between 0 and 10)
+
+## Model Performance metrics
+- Log Loss value:  1.2115421
+- Accuracy:  0.9649
 
